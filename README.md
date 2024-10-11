@@ -1,4 +1,3 @@
-Here's the README content in Markdown format:
 # News Classifier
 
 ## Overview
