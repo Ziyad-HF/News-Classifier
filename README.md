@@ -92,6 +92,6 @@ This project provides a comprehensive approach to classifying news articles usin
 
 ## Contributors
 
-- [Ziyad El-Fayoumy](https://github.com/Zoz-HF)
+- [Ziyad El-Fayoumy](https://github.com/Ziyad-HF)
 - [Hesham Hatem](https://github.com/Hesham942)
 - [Engy Sherif](https://github.com/EngySherif)
